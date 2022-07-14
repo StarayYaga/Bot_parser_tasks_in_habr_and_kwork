@@ -4,7 +4,7 @@
 После перейти в эту папку.
 
 Установка:
-`pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 Запуск:
-`python3 main.py
+`python3 main.py`
